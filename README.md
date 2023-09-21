@@ -17,7 +17,7 @@ This project is a translation in JavaScript of the original program and an attem
 
 ## Install
 
-    npm install -g cowsay
+    npm install -g cowsayDemo
 
 ## Usage
 
