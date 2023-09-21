@@ -10,7 +10,7 @@
     "talking",
     "ASCII"
   ],
-  "homepage": "https://github.com/code-brewer/cowsayDemo",
+  "homepage": "https://github.com/code-brewer/cowsay-demo",
   "author": {
     "name": "brooze.wang",
     "email": "brooze.wang@gmail.com",
@@ -35,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/code-brewer/cowsayDemo.git"
+    "url": "https://github.com/code-brewer/cowsay-demo.git"
   },
   "scripts": {
     "prepare": "rollup -c",
