@@ -53,6 +53,8 @@ If the program is invoked as cowthink then the cow will think its message instea
 
 const argv = yargs.argv;
 
+console.log("[Bee Debug]", JSON.stringify(argv));
+
 if (argv.l) {
   listCows();
 } else if (argv._.length) {
